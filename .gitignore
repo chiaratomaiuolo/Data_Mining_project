@@ -1,0 +1,5 @@
+# PDF files in the directory
+*.pdf
+
+# Dataset copies
+./dataset (missing + split)
