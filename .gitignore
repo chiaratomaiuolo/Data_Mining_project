@@ -1,5 +1,11 @@
+# OS generated files
+.DS_Store
+
 # PDF files in the directory
 *.pdf
 
 # Dataset copies
-./dataset (missing + split)
+dataset (missing + split)/
+
+# Local Python files
+CVNN_attempt.py
